@@ -31,10 +31,10 @@ $ npm run build
 
 ## More Info
 
-### Author
+<!-- ### Author
 
 Brad Traversy
-[Traversy Media](http://www.traversymedia.com)
+[Traversy Media](http://www.traversymedia.com) -->
 
 ### License
 
