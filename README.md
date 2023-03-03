@@ -19,6 +19,9 @@ $ npm install
 To serve in the browser  - Runs webpack-dev-server
 
 ```sh
+$ npm json:server
+```
+```sh
 $ npm start
 ```
 
